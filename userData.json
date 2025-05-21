@@ -1,0 +1,2460 @@
+{
+    "1": {
+        "Fname": "abdelaziz",
+        "Lname": "adel",
+        "avatar": "icons/abdelaziz.jpg",
+        "chatRooms": [
+            {
+                "chatRoomID": 100,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-10",
+                        "messageID": 22,
+                        "status": "seen",
+                        "text": "um... hi",
+                        "timeSent": "01:54:24",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-10",
+                        "messageID": 28,
+                        "status": "seen",
+                        "text": "y",
+                        "timeSent": "02:11:34",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-10",
+                        "messageID": 30,
+                        "status": "seen",
+                        "text": "um... hi",
+                        "timeSent": "02:13:13",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-10",
+                        "messageID": 31,
+                        "status": "seen",
+                        "text": "j",
+                        "timeSent": "17:19:37",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-11",
+                        "messageID": 32,
+                        "status": "seen",
+                        "text": "k",
+                        "timeSent": "00:01:36",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 35,
+                        "status": "unseen",
+                        "text": "zz",
+                        "timeSent": "13:46:15",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 109,
+                "groupAvatar": "icons/gc2.jpg",
+                "groupName": "DS",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 61,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:17:21",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 62,
+                        "status": "unseen",
+                        "text": "done with DS project!!!!!!!",
+                        "timeSent": "21:17:30",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 110,
+                "groupAvatar": "icons/gc3.jpg",
+                "groupName": "new",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 113,
+                "groupAvatar": "icons/gc1.jpg",
+                "groupName": "DS discussion",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 63,
+                        "status": "unseen",
+                        "text": "HII!!!!!!",
+                        "timeSent": "21:18:09",
+                        "userID": 3,
+                        "viewedBy": [
+                            11
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 64,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:19:24",
+                        "userID": 11,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    4,
+                    5,
+                    6,
+                    7,
+                    11,
+                    3
+                ]
+            }
+        ],
+        "contacts": {
+            "1099186239": "Sama Ayman",
+            "1234567890": "Jana waleed"
+        },
+        "id": 1,
+        "lastSeen": "online",
+        "number": 1234578792,
+        "password": "abc123",
+        "profile": {
+            "about": "one of the stupidest people!!!",
+            "visibility": true
+        },
+        "stories": {
+            "photoPath": "icons/story1.jpeg",
+            "publishedTime": "",
+            "storyText": "عظيم الشروق",
+            "userID": 1,
+            "viewers_id": [
+                3
+            ]
+        }
+    },
+    "10": {
+        "Fname": "Tamer",
+        "Lname": "Hosny",
+        "avatar": "icons/Tamer.jpg",
+        "chatRooms": [
+            {
+                "chatRoomID": 106,
+                "messages": [],
+                "type": "Private",
+                "userIDs": [
+                    3,
+                    10
+                ]
+            },
+            {
+                "chatRoomID": 108,
+                "groupAvatar": "icons/gc2.jpg",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 36,
+                        "status": "seen",
+                        "text": "cknkjd",
+                        "timeSent": "14:58:56",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 37,
+                        "status": "seen",
+                        "text": "cdbnl",
+                        "timeSent": "14:58:59",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 38,
+                        "status": "seen",
+                        "text": "x kjkvn",
+                        "timeSent": "14:59:03",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 40,
+                        "status": "seen",
+                        "text": "v fd",
+                        "timeSent": "14:59:06",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 42,
+                        "status": "seen",
+                        "text": "group578",
+                        "timeSent": "15:07:53",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 49,
+                        "status": "seen",
+                        "text": "hii",
+                        "timeSent": "15:21:09",
+                        "userID": 8,
+                        "viewedBy": [
+                            3,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 50,
+                        "status": "seen",
+                        "text": "testing",
+                        "timeSent": "16:43:39",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 52,
+                        "status": "seen",
+                        "text": "entoooo meeeeen",
+                        "timeSent": "07:16:41",
+                        "userID": 10,
+                        "viewedBy": [
+                            8,
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 53,
+                        "status": "seen",
+                        "text": "ana tamer hosny ya nas",
+                        "timeSent": "07:16:50",
+                        "userID": 10,
+                        "viewedBy": [
+                            8,
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 54,
+                        "status": "unseen",
+                        "text": "????",
+                        "timeSent": "07:17:21",
+                        "userID": 8,
+                        "viewedBy": [
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 55,
+                        "status": "unseen",
+                        "text": "tamer meen",
+                        "timeSent": "07:17:24",
+                        "userID": 8,
+                        "viewedBy": [
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 56,
+                        "status": "unseen",
+                        "text": "shhhhhhhhhh",
+                        "timeSent": "07:18:10",
+                        "userID": 9,
+                        "viewedBy": [
+                            3
+                        ]
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 110,
+                "groupAvatar": "icons/gc3.jpg",
+                "groupName": "new",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            }
+        ],
+        "contacts": {
+            "1099186239": "Sama Ayman"
+        },
+        "id": 10,
+        "lastSeen": "lastSeen",
+        "number": 1861067068,
+        "password": "123456",
+        "profile": {
+            "about": "انا تامر حسني ولله",
+            "visibility": true
+        },
+        "stories": {
+            "photoPath": "icons/TamerStory.jpg",
+            "publishedTime": "",
+            "storyText": "😫😫😫😫",
+            "userID": 10,
+            "viewers_id": [
+                3
+            ]
+        }
+    },
+    "2": {
+        "Fname": "sohila",
+        "Lname": "khaled",
+        "avatar": "icons/Souu.jpg",
+        "chatRooms": [
+            {
+                "chatRoomID": 102,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 2,
+                        "status": "seen",
+                        "text": "testing 2",
+                        "timeSent": "19:42:13",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 6,
+                        "status": "seen",
+                        "text": "works2?",
+                        "timeSent": "19:43:29",
+                        "userID": 2,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 15,
+                        "status": "seen",
+                        "text": "hwa enty nafs account \"sohila sohila\"????",
+                        "timeSent": "19:49:47",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 16,
+                        "status": "seen",
+                        "text": "meen el stupid el 3amal both accounts b nafs el esm!!!!!!",
+                        "timeSent": "19:50:01",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 17,
+                        "status": "seen",
+                        "text": "esm eh asdy number",
+                        "timeSent": "19:50:10",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 18,
+                        "status": "seen",
+                        "text": "mhtaga azawed option edit message 3shan shakly b2a 3era gdn",
+                        "timeSent": "19:50:31",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-11",
+                        "messageID": 34,
+                        "status": "unseen",
+                        "text": "code el scrolll alooooo",
+                        "timeSent": "06:49:20",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    3,
+                    2
+                ]
+            },
+            {
+                "chatRoomID": 109,
+                "groupAvatar": "icons/gc2.jpg",
+                "groupName": "DS",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 61,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:17:21",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 62,
+                        "status": "unseen",
+                        "text": "done with DS project!!!!!!!",
+                        "timeSent": "21:17:30",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 110,
+                "groupAvatar": "icons/gc3.jpg",
+                "groupName": "new",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            }
+        ],
+        "contacts": {
+            "1099186239": "Sama Ayman"
+        },
+        "id": 2,
+        "lastSeen": "online",
+        "number": 1234578794,
+        "password": "abc123",
+        "profile": {
+            "about": "👩‍🦯👩‍🦯👩‍🦯👩‍🦯👩‍🦯👩‍🦯👩‍🦯👩‍🦯",
+            "visibility": true
+        },
+        "stories": {
+            "photoPath": "icons/story5.jpg",
+            "publishedTime": "",
+            "storyText": "",
+            "userID": 2,
+            "viewers_id": [
+                3
+            ]
+        }
+    },
+    "3": {
+        "Fname": "sama",
+        "Lname": "ayman",
+        "avatar": "icons/Sama.jpg",
+        "chatRooms": [
+            {
+                "chatRoomID": 100,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-10",
+                        "messageID": 22,
+                        "status": "seen",
+                        "text": "um... hi",
+                        "timeSent": "01:54:24",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-10",
+                        "messageID": 28,
+                        "status": "seen",
+                        "text": "y",
+                        "timeSent": "02:11:34",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-10",
+                        "messageID": 30,
+                        "status": "seen",
+                        "text": "um... hi",
+                        "timeSent": "02:13:13",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-10",
+                        "messageID": 31,
+                        "status": "seen",
+                        "text": "j",
+                        "timeSent": "17:19:37",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-11",
+                        "messageID": 32,
+                        "status": "seen",
+                        "text": "k",
+                        "timeSent": "00:01:36",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 35,
+                        "status": "unseen",
+                        "text": "zz",
+                        "timeSent": "13:46:15",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 102,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 2,
+                        "status": "seen",
+                        "text": "testing 2",
+                        "timeSent": "19:42:13",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 6,
+                        "status": "seen",
+                        "text": "works2?",
+                        "timeSent": "19:43:29",
+                        "userID": 2,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 15,
+                        "status": "seen",
+                        "text": "hwa enty nafs account \"sohila sohila\"????",
+                        "timeSent": "19:49:47",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 16,
+                        "status": "seen",
+                        "text": "meen el stupid el 3amal both accounts b nafs el esm!!!!!!",
+                        "timeSent": "19:50:01",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 17,
+                        "status": "seen",
+                        "text": "esm eh asdy number",
+                        "timeSent": "19:50:10",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 18,
+                        "status": "seen",
+                        "text": "mhtaga azawed option edit message 3shan shakly b2a 3era gdn",
+                        "timeSent": "19:50:31",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-11",
+                        "messageID": 34,
+                        "status": "unseen",
+                        "text": "code el scrolll alooooo",
+                        "timeSent": "06:49:20",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    3,
+                    2
+                ]
+            },
+            {
+                "chatRoomID": 103,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 3,
+                        "status": "seen",
+                        "text": "testing 3",
+                        "timeSent": "19:42:25",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 7,
+                        "status": "seen",
+                        "text": "works3?",
+                        "timeSent": "19:43:54",
+                        "userID": 4,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 20,
+                        "status": "unseen",
+                        "text": "yes",
+                        "timeSent": "21:07:13",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "chatRoomID": 104,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 8,
+                        "status": "seen",
+                        "text": "works4?",
+                        "timeSent": "19:45:25",
+                        "userID": 6,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 13,
+                        "status": "unseen",
+                        "text": "yes works yess!!!!",
+                        "timeSent": "19:49:04",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 14,
+                        "status": "unseen",
+                        "text": "*insert zaghrota*",
+                        "timeSent": "19:49:18",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-11",
+                        "messageID": 33,
+                        "status": "unseen",
+                        "text": "????",
+                        "timeSent": "06:41:50",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    3,
+                    6
+                ]
+            },
+            {
+                "chatRoomID": 105,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 9,
+                        "status": "seen",
+                        "text": "Hi sam!!!!",
+                        "timeSent": "19:47:28",
+                        "userID": 5,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 10,
+                        "status": "seen",
+                        "text": "woks???",
+                        "timeSent": "19:47:35",
+                        "userID": 5,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 11,
+                        "status": "seen",
+                        "text": "el r taret mny mot2asefa",
+                        "timeSent": "19:47:47",
+                        "userID": 5,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 12,
+                        "status": "unseen",
+                        "text": "i think it's working , yes",
+                        "timeSent": "19:48:33",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-09",
+                        "messageID": 21,
+                        "status": "unseen",
+                        "text": "hi",
+                        "timeSent": "15:30:12",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    5,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 106,
+                "messages": [],
+                "type": "Private",
+                "userIDs": [
+                    3,
+                    10
+                ]
+            },
+            {
+                "chatRoomID": 107,
+                "groupAvatar": "icons/gc1.jpg",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 41,
+                        "status": "unseen",
+                        "text": "zzz",
+                        "timeSent": "15:02:49",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 46,
+                        "status": "unseen",
+                        "text": "ybjtjy",
+                        "timeSent": "15:09:15",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 47,
+                        "status": "unseen",
+                        "text": "btejytjy",
+                        "timeSent": "15:09:16",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 48,
+                        "status": "unseen",
+                        "text": "tr  nrjy",
+                        "timeSent": "15:09:19",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 57,
+                        "status": "unseen",
+                        "text": "test",
+                        "timeSent": "11:01:54",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 58,
+                        "status": "unseen",
+                        "text": "workingggggggggggggggggggggggggggggggggggggggg",
+                        "timeSent": "11:02:03",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    5,
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 108,
+                "groupAvatar": "icons/gc2.jpg",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 36,
+                        "status": "seen",
+                        "text": "cknkjd",
+                        "timeSent": "14:58:56",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 37,
+                        "status": "seen",
+                        "text": "cdbnl",
+                        "timeSent": "14:58:59",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 38,
+                        "status": "seen",
+                        "text": "x kjkvn",
+                        "timeSent": "14:59:03",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 40,
+                        "status": "seen",
+                        "text": "v fd",
+                        "timeSent": "14:59:06",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 42,
+                        "status": "seen",
+                        "text": "group578",
+                        "timeSent": "15:07:53",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 49,
+                        "status": "seen",
+                        "text": "hii",
+                        "timeSent": "15:21:09",
+                        "userID": 8,
+                        "viewedBy": [
+                            3,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 50,
+                        "status": "seen",
+                        "text": "testing",
+                        "timeSent": "16:43:39",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 52,
+                        "status": "seen",
+                        "text": "entoooo meeeeen",
+                        "timeSent": "07:16:41",
+                        "userID": 10,
+                        "viewedBy": [
+                            8,
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 53,
+                        "status": "seen",
+                        "text": "ana tamer hosny ya nas",
+                        "timeSent": "07:16:50",
+                        "userID": 10,
+                        "viewedBy": [
+                            8,
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 54,
+                        "status": "unseen",
+                        "text": "????",
+                        "timeSent": "07:17:21",
+                        "userID": 8,
+                        "viewedBy": [
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 55,
+                        "status": "unseen",
+                        "text": "tamer meen",
+                        "timeSent": "07:17:24",
+                        "userID": 8,
+                        "viewedBy": [
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 56,
+                        "status": "unseen",
+                        "text": "shhhhhhhhhh",
+                        "timeSent": "07:18:10",
+                        "userID": 9,
+                        "viewedBy": [
+                            3
+                        ]
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 109,
+                "groupAvatar": "icons/gc3.jpg",
+                "groupName": "DS",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 61,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:17:21",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 62,
+                        "status": "unseen",
+                        "text": "done with DS project!!!!!!!",
+                        "timeSent": "21:17:30",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 110,
+                "groupAvatar": "icons/gc2.jpg",
+                "groupName": "new",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 111,
+                "groupAvatar": "icons/gc2.jpg",
+                "groupName": "FF",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 112,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 59,
+                        "status": "seen",
+                        "text": "hii",
+                        "timeSent": "21:14:49",
+                        "userID": 11,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 60,
+                        "status": "seen",
+                        "text": "hi!!!!",
+                        "timeSent": "21:16:29",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    11,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 113,
+                "groupAvatar": "icons/gc1.jpg",
+                "groupName": "DS discussion",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 63,
+                        "status": "unseen",
+                        "text": "HII!!!!!!",
+                        "timeSent": "21:18:09",
+                        "userID": 3,
+                        "viewedBy": [
+                            11
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 64,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:19:24",
+                        "userID": 11,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    4,
+                    5,
+                    6,
+                    7,
+                    11,
+                    3
+                ]
+            }
+        ],
+        "contacts": {
+            "1000099506": "youssef",
+            "1090753232": "Abdelaziz",
+            "1141007369": "nono nono",
+            "1141007465": "Othman",
+            "1141812370": "sohila sohila",
+            "1234567890": "Jana waleed",
+            "1234578792": "Abdelaziz Adel",
+            "1234578794": "sohila khaled",
+            "1245976328": "mama",
+            "1861001456": "El ragol el 3ankbot",
+            "1861065468": "El fanan batman",
+            "1861067068": "Tamer Hosny"
+        },
+        "id": 3,
+        "lastSeen": "lastSeen",
+        "number": 1099186239,
+        "password": "123456789",
+        "profile": {
+            "about": "✨Blessing them with my existence✨",
+            "visibility": true
+        },
+        "stories": {
+            "photoPath": "icons/story3.jpeg",
+            "publishedTime": "",
+            "storyText": "hellooo!",
+            "userID": 3,
+            "viewers_id": [
+                11
+            ]
+        }
+    },
+    "4": {
+        "Fname": "Jana",
+        "Lname": "waleed",
+        "avatar": "icons/Jana.jpg",
+        "chatRooms": [
+            {
+                "chatRoomID": 103,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 3,
+                        "status": "seen",
+                        "text": "testing 3",
+                        "timeSent": "19:42:25",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 7,
+                        "status": "seen",
+                        "text": "works3?",
+                        "timeSent": "19:43:54",
+                        "userID": 4,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 20,
+                        "status": "unseen",
+                        "text": "yes",
+                        "timeSent": "21:07:13",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "chatRoomID": 109,
+                "groupAvatar": "icons/gc2.jpg",
+                "groupName": "DS",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 61,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:17:21",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 62,
+                        "status": "unseen",
+                        "text": "done with DS project!!!!!!!",
+                        "timeSent": "21:17:30",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 110,
+                "groupAvatar": "icons/gc3.jpg",
+                "groupName": "new",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 113,
+                "groupAvatar": "icons/gc1.jpg",
+                "groupName": "DS discussion",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 63,
+                        "status": "unseen",
+                        "text": "HII!!!!!!",
+                        "timeSent": "21:18:09",
+                        "userID": 3,
+                        "viewedBy": [
+                            11
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 64,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:19:24",
+                        "userID": 11,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    4,
+                    5,
+                    6,
+                    7,
+                    11,
+                    3
+                ]
+            }
+        ],
+        "contacts": {
+            "1099186239": "Sama Ayman"
+        },
+        "id": 4,
+        "lastSeen": "lastSeen",
+        "number": 1234567890,
+        "password": "123456789",
+        "profile": {
+            "about": "الكل فالكل",
+            "visibility": true
+        },
+        "stories": {
+            "photoPath": "icons/story4.jpeg",
+            "publishedTime": "",
+            "storyText": "",
+            "userID": 4,
+            "viewers_id": [
+                3
+            ]
+        }
+    },
+    "5": {
+        "Fname": "msh sohila",
+        "Lname": "",
+        "avatar": "",
+        "chatRooms": [
+            {
+                "chatRoomID": 105,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 9,
+                        "status": "seen",
+                        "text": "Hi sam!!!!",
+                        "timeSent": "19:47:28",
+                        "userID": 5,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 10,
+                        "status": "seen",
+                        "text": "woks???",
+                        "timeSent": "19:47:35",
+                        "userID": 5,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 11,
+                        "status": "seen",
+                        "text": "el r taret mny mot2asefa",
+                        "timeSent": "19:47:47",
+                        "userID": 5,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 12,
+                        "status": "unseen",
+                        "text": "i think it's working , yes",
+                        "timeSent": "19:48:33",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-09",
+                        "messageID": 21,
+                        "status": "unseen",
+                        "text": "hi",
+                        "timeSent": "15:30:12",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    5,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 107,
+                "groupAvatar": "icons/gc1.jpg",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 41,
+                        "status": "unseen",
+                        "text": "zzz",
+                        "timeSent": "15:02:49",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 46,
+                        "status": "unseen",
+                        "text": "ybjtjy",
+                        "timeSent": "15:09:15",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 47,
+                        "status": "unseen",
+                        "text": "btejytjy",
+                        "timeSent": "15:09:16",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 48,
+                        "status": "unseen",
+                        "text": "tr  nrjy",
+                        "timeSent": "15:09:19",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 57,
+                        "status": "unseen",
+                        "text": "test",
+                        "timeSent": "11:01:54",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 58,
+                        "status": "unseen",
+                        "text": "workingggggggggggggggggggggggggggggggggggggggg",
+                        "timeSent": "11:02:03",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    5,
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 110,
+                "groupAvatar": "icons/gc3.jpg",
+                "groupName": "new",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 113,
+                "groupAvatar": "icons/gc1.jpg",
+                "groupName": "DS discussion",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 63,
+                        "status": "unseen",
+                        "text": "HII!!!!!!",
+                        "timeSent": "21:18:09",
+                        "userID": 3,
+                        "viewedBy": [
+                            11
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 64,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:19:24",
+                        "userID": 11,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    4,
+                    5,
+                    6,
+                    7,
+                    11,
+                    3
+                ]
+            }
+        ],
+        "contacts": {
+            "1099186239": "Sama Ayman"
+        },
+        "id": 5,
+        "lastSeen": "lastSeen",
+        "number": 1141812370,
+        "password": "test2025",
+        "profile": {
+            "about": "🤷‍♀️",
+            "visibility": true
+        },
+        "stories": {
+            "photoPath": "icons/story2.jpeg",
+            "publishedTime": "",
+            "storyText": "WOW",
+            "userID": 5,
+            "viewers_id": [
+                3
+            ]
+        }
+    },
+    "6": {
+        "Fname": "nono",
+        "Lname": "nono",
+        "avatar": "icons/Nouny.jpg",
+        "chatRooms": [
+            {
+                "chatRoomID": 104,
+                "messages": [
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 8,
+                        "status": "seen",
+                        "text": "works4?",
+                        "timeSent": "19:45:25",
+                        "userID": 6,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 13,
+                        "status": "unseen",
+                        "text": "yes works yess!!!!",
+                        "timeSent": "19:49:04",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-08",
+                        "messageID": 14,
+                        "status": "unseen",
+                        "text": "*insert zaghrota*",
+                        "timeSent": "19:49:18",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-11",
+                        "messageID": 33,
+                        "status": "unseen",
+                        "text": "????",
+                        "timeSent": "06:41:50",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Private",
+                "userIDs": [
+                    3,
+                    6
+                ]
+            },
+            {
+                "chatRoomID": 107,
+                "groupAvatar": "icons/gc1.jpg",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 41,
+                        "status": "unseen",
+                        "text": "zzz",
+                        "timeSent": "15:02:49",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 46,
+                        "status": "unseen",
+                        "text": "ybjtjy",
+                        "timeSent": "15:09:15",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 47,
+                        "status": "unseen",
+                        "text": "btejytjy",
+                        "timeSent": "15:09:16",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 48,
+                        "status": "unseen",
+                        "text": "tr  nrjy",
+                        "timeSent": "15:09:19",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 57,
+                        "status": "unseen",
+                        "text": "test",
+                        "timeSent": "11:01:54",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 58,
+                        "status": "unseen",
+                        "text": "workingggggggggggggggggggggggggggggggggggggggg",
+                        "timeSent": "11:02:03",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    5,
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 109,
+                "groupAvatar": "icons/gc2.jpg",
+                "groupName": "DS",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 61,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:17:21",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 62,
+                        "status": "unseen",
+                        "text": "done with DS project!!!!!!!",
+                        "timeSent": "21:17:30",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 110,
+                "groupAvatar": "icons/gc3.jpg",
+                "groupName": "new",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 111,
+                "groupAvatar": "icons/gc2.jpg",
+                "groupName": "FF",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 113,
+                "groupAvatar": "icons/gc1.jpg",
+                "groupName": "DS discussion",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 63,
+                        "status": "unseen",
+                        "text": "HII!!!!!!",
+                        "timeSent": "21:18:09",
+                        "userID": 3,
+                        "viewedBy": [
+                            11
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 64,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:19:24",
+                        "userID": 11,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    4,
+                    5,
+                    6,
+                    7,
+                    11,
+                    3
+                ]
+            }
+        ],
+        "contacts": {
+            "1099186239": "Sama Ayman"
+        },
+        "id": 6,
+        "lastSeen": "lastSeen",
+        "number": 1141007369,
+        "password": "159753",
+        "profile": {
+            "about": "👵🕊 Wisdom doesn’t shout — it listens",
+            "visibility": true
+        },
+        "stories": {
+            "photoPath": "icons/story6.jpeg",
+            "publishedTime": "",
+            "storyText": "",
+            "userID": 6,
+            "viewers_id": [
+                3
+            ]
+        }
+    },
+    "7": {
+        "Fname": "Othman",
+        "Lname": "Nasser",
+        "avatar": "icons/Othman.jpg",
+        "chatRooms": [
+            {
+                "chatRoomID": 107,
+                "groupAvatar": "icons/gc1.jpg",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 41,
+                        "status": "unseen",
+                        "text": "zzz",
+                        "timeSent": "15:02:49",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 46,
+                        "status": "unseen",
+                        "text": "ybjtjy",
+                        "timeSent": "15:09:15",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 47,
+                        "status": "unseen",
+                        "text": "btejytjy",
+                        "timeSent": "15:09:16",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 48,
+                        "status": "unseen",
+                        "text": "tr  nrjy",
+                        "timeSent": "15:09:19",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 57,
+                        "status": "unseen",
+                        "text": "test",
+                        "timeSent": "11:01:54",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 58,
+                        "status": "unseen",
+                        "text": "workingggggggggggggggggggggggggggggggggggggggg",
+                        "timeSent": "11:02:03",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    5,
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 109,
+                "groupAvatar": "icons/gc2.jpg",
+                "groupName": "DS",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 61,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:17:21",
+                        "userID": 3,
+                        "viewedBy": []
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 62,
+                        "status": "unseen",
+                        "text": "done with DS project!!!!!!!",
+                        "timeSent": "21:17:30",
+                        "userID": 3,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 110,
+                "groupAvatar": "icons/gc3.jpg",
+                "groupName": "new",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 111,
+                "groupAvatar": "icons/gc2.jpg",
+                "groupName": "FF",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    6,
+                    7,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 113,
+                "groupAvatar": "icons/gc1.jpg",
+                "groupName": "DS discussion",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 63,
+                        "status": "unseen",
+                        "text": "HII!!!!!!",
+                        "timeSent": "21:18:09",
+                        "userID": 3,
+                        "viewedBy": [
+                            11
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-19",
+                        "messageID": 64,
+                        "status": "unseen",
+                        "text": "hiiii",
+                        "timeSent": "21:19:24",
+                        "userID": 11,
+                        "viewedBy": []
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    4,
+                    5,
+                    6,
+                    7,
+                    11,
+                    3
+                ]
+            }
+        ],
+        "contacts": {
+            "1099186239": "Sama Ayman"
+        },
+        "id": 7,
+        "lastSeen": "lastSeen",
+        "number": 1141007465,
+        "password": "123456",
+        "profile": {
+            "about": "مش عارف",
+            "visibility": true
+        },
+        "stories": {
+            "photoPath": "icons/story7.jpeg",
+            "publishedTime": "",
+            "storyText": "",
+            "userID": 7,
+            "viewers_id": [
+                3
+            ]
+        }
+    },
+    "8": {
+        "Fname": "El ragol ",
+        "Lname": "el 3enab",
+        "avatar": "icons/3enab.jpg",
+        "chatRooms": [
+            {
+                "chatRoomID": 108,
+                "groupAvatar": "icons/gc2.jpg",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 36,
+                        "status": "seen",
+                        "text": "cknkjd",
+                        "timeSent": "14:58:56",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 37,
+                        "status": "seen",
+                        "text": "cdbnl",
+                        "timeSent": "14:58:59",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 38,
+                        "status": "seen",
+                        "text": "x kjkvn",
+                        "timeSent": "14:59:03",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 40,
+                        "status": "seen",
+                        "text": "v fd",
+                        "timeSent": "14:59:06",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 42,
+                        "status": "seen",
+                        "text": "group578",
+                        "timeSent": "15:07:53",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 49,
+                        "status": "seen",
+                        "text": "hii",
+                        "timeSent": "15:21:09",
+                        "userID": 8,
+                        "viewedBy": [
+                            3,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 50,
+                        "status": "seen",
+                        "text": "testing",
+                        "timeSent": "16:43:39",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 52,
+                        "status": "seen",
+                        "text": "entoooo meeeeen",
+                        "timeSent": "07:16:41",
+                        "userID": 10,
+                        "viewedBy": [
+                            8,
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 53,
+                        "status": "seen",
+                        "text": "ana tamer hosny ya nas",
+                        "timeSent": "07:16:50",
+                        "userID": 10,
+                        "viewedBy": [
+                            8,
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 54,
+                        "status": "unseen",
+                        "text": "????",
+                        "timeSent": "07:17:21",
+                        "userID": 8,
+                        "viewedBy": [
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 55,
+                        "status": "unseen",
+                        "text": "tamer meen",
+                        "timeSent": "07:17:24",
+                        "userID": 8,
+                        "viewedBy": [
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 56,
+                        "status": "unseen",
+                        "text": "shhhhhhhhhh",
+                        "timeSent": "07:18:10",
+                        "userID": 9,
+                        "viewedBy": [
+                            3
+                        ]
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 110,
+                "groupAvatar": "icons/gc3.jpg",
+                "groupName": "new",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            }
+        ],
+        "contacts": {
+            "1099186239": "Sama Ayman"
+        },
+        "id": 8,
+        "lastSeen": "lastSeen",
+        "number": 1861001456,
+        "password": "123456",
+        "profile": {
+            "about": "",
+            "visibility": true
+        },
+        "stories": {
+            "photoPath": "icons/3enabStory.jpg",
+            "publishedTime": "",
+            "storyText": "انا وحبيب قلبي الفنان باسم سمرة",
+            "userID": 8,
+            "viewers_id": [
+                3
+            ]
+        }
+    },
+    "9": {
+        "Fname": "El fanan batman",
+        "Lname": "",
+        "avatar": "icons/Bat.jpg",
+        "chatRooms": [
+            {
+                "chatRoomID": 108,
+                "groupAvatar": "icons/gc2.jpg",
+                "messages": [
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 36,
+                        "status": "seen",
+                        "text": "cknkjd",
+                        "timeSent": "14:58:56",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 37,
+                        "status": "seen",
+                        "text": "cdbnl",
+                        "timeSent": "14:58:59",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 38,
+                        "status": "seen",
+                        "text": "x kjkvn",
+                        "timeSent": "14:59:03",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 40,
+                        "status": "seen",
+                        "text": "v fd",
+                        "timeSent": "14:59:06",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 42,
+                        "status": "seen",
+                        "text": "group578",
+                        "timeSent": "15:07:53",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 49,
+                        "status": "seen",
+                        "text": "hii",
+                        "timeSent": "15:21:09",
+                        "userID": 8,
+                        "viewedBy": [
+                            3,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-12",
+                        "messageID": 50,
+                        "status": "seen",
+                        "text": "testing",
+                        "timeSent": "16:43:39",
+                        "userID": 3,
+                        "viewedBy": [
+                            8,
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 52,
+                        "status": "seen",
+                        "text": "entoooo meeeeen",
+                        "timeSent": "07:16:41",
+                        "userID": 10,
+                        "viewedBy": [
+                            8,
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 53,
+                        "status": "seen",
+                        "text": "ana tamer hosny ya nas",
+                        "timeSent": "07:16:50",
+                        "userID": 10,
+                        "viewedBy": [
+                            8,
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 54,
+                        "status": "unseen",
+                        "text": "????",
+                        "timeSent": "07:17:21",
+                        "userID": 8,
+                        "viewedBy": [
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 55,
+                        "status": "unseen",
+                        "text": "tamer meen",
+                        "timeSent": "07:17:24",
+                        "userID": 8,
+                        "viewedBy": [
+                            9,
+                            3
+                        ]
+                    },
+                    {
+                        "dateSent": "2025-05-13",
+                        "messageID": 56,
+                        "status": "unseen",
+                        "text": "shhhhhhhhhh",
+                        "timeSent": "07:18:10",
+                        "userID": 9,
+                        "viewedBy": [
+                            3
+                        ]
+                    }
+                ],
+                "type": "Group",
+                "userIDs": [
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            },
+            {
+                "chatRoomID": 110,
+                "groupAvatar": "icons/gc3.jpg",
+                "groupName": "new",
+                "messages": [],
+                "type": "Group",
+                "userIDs": [
+                    1,
+                    2,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    3
+                ]
+            }
+        ],
+        "contacts": {
+            "1099186239": "Sama Ayman"
+        },
+        "id": 9,
+        "lastSeen": "lastSeen",
+        "number": 1861065468,
+        "password": "123456",
+        "profile": {
+            "about": "الفنان بتمان الحقيقي",
+            "visibility": true
+        },
+        "stories": {
+            "photoPath": "icons/BatStory.jpg",
+            "publishedTime": "",
+            "storyText": "",
+            "userID": 9,
+            "viewers_id": [
+                3
+            ]
+        }
+    }
+}
